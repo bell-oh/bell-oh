@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome!
+I’m an artist, designer, and programmer based in Boston, Massachusetts. I am a third year Engineering Psychology student at Tufts University.
+
+### I'm currently...
+🖥️   working on a website with JumboCode<br>
+📊   exploring data visualization in Python<br>
+🍎   helping students learn C++ as a course assistant<br>
+🧶   learning to knit<br>
+🏠   starting DIY home improvement projects<br>
 
 <!--
 **bell-oh/bell-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
