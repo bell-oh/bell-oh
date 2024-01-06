@@ -4,7 +4,6 @@ I’m an artist, designer, and programmer based in Boston, Massachusetts. I am a
 ### I'm currently...
 🖥️   working on a website with JumboCode<br>
 📊   exploring data visualization in Python<br>
-🍎   helping students learn C++ as a course assistant<br>
 🧶   learning to knit<br>
 🏠   starting DIY home improvement projects<br>
 
