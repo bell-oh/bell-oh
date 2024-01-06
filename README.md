@@ -8,7 +8,7 @@ I’m an artist, designer, and programmer based in Boston, Massachusetts. I am a
 🧶   learning to knit<br>
 🏠   starting DIY home improvement projects<br>
 
-Learn more about my work on my [website](oliverbello.webflow.io)!
+Learn more about my work on my [website](https://oliverbello.webflow.io/)!
 
 <!--
 **bell-oh/bell-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
