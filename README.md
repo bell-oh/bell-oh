@@ -1,5 +1,5 @@
 ### Welcome!
-I’m an artist, designer, and programmer based in Boston, Massachusetts. I am a third year Engineering Psychology student at Tufts University.
+I’m an artist, designer, and programmer based in Boston, Massachusetts. I am a fourth year Engineering Psychology student at Tufts University.
 
 ### I'm currently...
 🖥️   working on a website with JumboCode<br>
